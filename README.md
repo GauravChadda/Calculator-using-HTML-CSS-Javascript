@@ -1,10 +1,12 @@
 
-![Screenshot (194)](https://github.com/GauravChadda/Calculator-using-HTML-CSS-Javascript/assets/120672254/6c4eeefa-5f34-4402-ae13-be3480265ed5)
-![Screenshot (195)](https://github.com/GauravChadda/Calculator-using-HTML-CSS-Javascript/assets/120672254/7df107c3-458c-43db-bc97-482528593f2a)
-![Screenshot (196)](https://github.com/GauravChadda/Calculator-using-HTML-CSS-Javascript/assets/120672254/207a0929-fa06-4461-8b1d-82953564ff20)
-![Screenshot (197)](https://github.com/GauravChadda/Calculator-using-HTML-CSS-Javascript/assets/120672254/737b9dfa-f262-4083-8509-5fc185800a8e)
-![Screenshot (198)](https://github.com/GauravChadda/Calculator-using-HTML-CSS-Javascript/assets/120672254/77f4239f-2993-4cdd-9cf2-9616715cf3b8)
+
+![Screenshot (194)](https://github.com/GauravChadda/Calculator-using-HTML-CSS-Javascript/assets/120672254/0173f259-5a3e-4c6a-ac14-22cf6da355e4)
+
+![Screenshot (195)](https://github.com/GauravChadda/Calculator-using-HTML-CSS-Javascript/assets/120672254/30de737e-6173-480c-bb3c-3397f90b4507)
+![Screenshot (196)](https://github.com/GauravChadda/Calculator-using-HTML-CSS-Javascript/assets/120672254/dbf5a948-6e0c-4b24-a683-d29d484238c8)
+![Screenshot (197)](https://github.com/GauravChadda/Calculator-using-HTML-CSS-Javascript/assets/120672254/9e408585-1dfc-445c-8e2e-4c7614f54ed5)
+![Screenshot (198)](https://github.com/GauravChadda/Calculator-using-HTML-CSS-Javascript/assets/120672254/0ef8cab0-5182-49f2-a07b-8d0579722384)
 
 
-https://github.com/GauravChadda/Calculator-using-HTML-CSS-Javascript/assets/120672254/ff5617e5-80d6-4be6-a599-05a13cb5fc05
+https://github.com/GauravChadda/Calculator-using-HTML-CSS-Javascript/assets/120672254/38657bc4-0430-41de-8aef-8b4748066c71
 
